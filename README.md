@@ -14,7 +14,7 @@
 如果是`project`   就执行 `./autoUpToPGYBuild.py -p youproject.xcodeproj`
 
 4.其他
-[获取蒲公英的APIKey 和 UserKey](https://github.com/lichory/autopackage/blob/master/获取APIKey和UserKey.png)
+![获取蒲公英的APIKey 和 UserKey](https://github.com/lichory/autopackage/blob/master/获取APIKey和UserKey.png)
 
 
 
